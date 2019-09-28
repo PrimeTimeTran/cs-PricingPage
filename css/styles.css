@@ -76,3 +76,14 @@ p.card-text {
   font-size: 25px;
   margin-bottom: 100px;
 }
+
+footer {
+  height: 3em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+footer > a {
+  margin-left: 5px;
+}
